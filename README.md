@@ -1,5 +1,5 @@
 # SteamField
-This repository is a sample code for an job interview.<br/>
+This repository is a sample code for a job interview.<br/>
 If you want this code you can use :)<br/>
 <h2>ScreenShots</h2>
 <div style="display: flex;" align="center">
